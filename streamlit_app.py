@@ -3,4 +3,4 @@ import pandas
 import requests
 import snowflake.connector
 
-streamlit.header("Welcome back again")
+streamlit.title('Welcome back')
